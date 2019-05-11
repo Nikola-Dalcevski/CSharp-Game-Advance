@@ -1,0 +1,14 @@
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Entities.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Services.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Entities.pdb
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Services.pdb
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CopyComplete
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\ConsoleGame\obj\Debug\ConsoleGame.pdb

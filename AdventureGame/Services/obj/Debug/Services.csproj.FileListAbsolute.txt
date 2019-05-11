@@ -1,0 +1,9 @@
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\bin\Debug\Services.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\bin\Debug\Services.pdb
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\bin\Debug\Entities.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\bin\Debug\Entities.pdb
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\obj\Debug\Services.dll
+C:\Users\nikola.dalchevski\Desktop\Game\AdventureGame\Services\obj\Debug\Services.pdb
